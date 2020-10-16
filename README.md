@@ -3,13 +3,13 @@ This is the library of books that I have read or am reading. The books are
 split into strictly academic books, and other. Files are filetype: pdf
 in majority.
 
-## Textbooks
+## [Textbooks](Textbooks)
 The books within this subdirectory are all either proper collegiate textbooks,
 mostly in the areas of mathematics, physics, and computer science. Most of these
 are, in my opinion, are the absolute best for their subject. A few resources
 in this section are also lecture notes.
 
--   Lecture Notes
+-   [Lecture Notes](Textbooks/Lecture%20Notes/)
     -   [Calculus of Several Variables (MIT 18.022 Fall 2010)](Textbooks/Lecture%20Notes/Calculus%20of%20Several%20Variables%20(MIT%2018.022%20Fall%202010)/) - Instructed: Prof. James McKernan
         -   Lecture Notes 1-24
         -   [MIT Course](https://ocw.mit.edu/courses/mathematics/18-022-calculus-of-several-variables-fall-2010/index.htm)
@@ -20,7 +20,7 @@ in this section are also lecture notes.
 -   [Vector Calculus, Fourth Edition](Textbooks/Vector%20Calculus,%20Fourth%20Edition.pdf) -
     Authored: Susan Jane Colley
 
-## Books
+## [Books](Books)
 Books are read in motivation of expanding knowledge.
 -   [The Gulag Archipelago, Volume 1](Books/The%20Gulag%20Archipelago,%20Volume%201.pdf)
 
